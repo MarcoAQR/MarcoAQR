@@ -10,7 +10,6 @@
 
 <img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<h3 align="center">Un apasionado desarrollador de software 🇵🇪</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marco-antonio-quispe-rios" target="blank">
@@ -34,22 +33,12 @@
 
 ### 🛠️ Tecnologías y herramientas
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=angular,html,css,js" />
-
-**Bases de datos**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-**Herramientas**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-
+| Categoría | Tecnologías |
+|---|---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,html,css,js" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
+| **Herramientas / IDEs** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode" /> |
 <br>
 
 ### 📌 Proyectos
